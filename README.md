@@ -1,10 +1,9 @@
 Projet Listechainee
 
-
-Ce projet est notre aventure collective, réalisée avec passion par Arthur Krings, Nicolas Guerfi-Braure , Aymeric . Notre voyage dans le monde des listes chaînées en C a commencé avec une étincelle d'inspiration tirée du travail de notre professeur, rcoscali, sur GitHub.
+Ce projet à était réaliser par Aymeric, Arthur et Nicolas
 
 Difficultés Rencontrées
-Aucune difficultés 
+Aucune difficulté 
 
 
 Apprentissages
